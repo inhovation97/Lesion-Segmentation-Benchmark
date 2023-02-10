@@ -1,0 +1,2 @@
+,test_losses,test_iou,test_dice
+breast_cancer_benign,0.39464180916547775,"tensor(0.7139, device='cuda:0')","tensor(0.7779, device='cuda:0')"

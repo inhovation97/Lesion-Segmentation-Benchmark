@@ -1,0 +1,2 @@
+,test_losses,test_iou,test_dice
+Kvasir-SEG,0.6045603999495506,"tensor(0.7026, device='cuda:0')","tensor(0.7892, device='cuda:0')"

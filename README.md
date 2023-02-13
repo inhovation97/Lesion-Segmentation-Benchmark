@@ -7,7 +7,7 @@ If you want to know more about this research, refer to our paper
 
 [Publication]   
 Inho Jeong, Donghyeon Kim, Seongmin Jo, Hongryul Ahn. (2022).   
-Comparison of lesion segmentation deep learning models according to medical image types 한국정보과학회 학술발표논문집,   
+*Comparison of lesion segmentation deep learning models according to medical image types* 한국정보과학회 학술발표논문집,   
 [This paper was within Top 10% in KSC2022 Thesis Contest](https://drive.google.com/file/d/182DaZQDwKJ5wJBJ4-_EpAW94AHy3uyS2/view)
 
 # Datasets   

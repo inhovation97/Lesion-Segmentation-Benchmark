@@ -1,0 +1,2 @@
+,test_losses,test_iou,test_dice
+CVC-ClinicDB,0.3858954692259431,"tensor(0.6962, device='cuda:0')","tensor(0.7622, device='cuda:0')"

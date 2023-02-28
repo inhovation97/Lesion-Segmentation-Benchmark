@@ -1,0 +1,2 @@
+,test_losses,test_iou,test_dice
+ISIC-2017,0.6573484762509664,"tensor(0.7399, device='cuda:0')","tensor(0.8296, device='cuda:0')"

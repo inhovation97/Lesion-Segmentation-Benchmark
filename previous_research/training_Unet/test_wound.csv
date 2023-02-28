@@ -1,0 +1,2 @@
+,test_losses,test_iou,test_dice
+wound,0.18043467955929893,"tensor(0.7344, device='cuda:0')","tensor(0.8305, device='cuda:0')"
